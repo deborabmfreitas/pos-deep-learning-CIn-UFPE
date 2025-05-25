@@ -1,0 +1,8 @@
+Pessoa,Altura (m),Peso (kg),Classe
+A,1.7,70,Atleta
+B,1.65,90,Não Atleta
+C,1.8,80,Atleta
+D,1.75,95,Não Atleta
+E,1.6,50,Atleta
+F,1.85,110,Não Atleta
+G,1.68,68,Atleta
